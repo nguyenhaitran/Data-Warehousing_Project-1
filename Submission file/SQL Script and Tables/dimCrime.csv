@@ -1,0 +1,12 @@
+ID,crime,type of crime
+1,LARCENY-NON VEHICLE,property
+2,AUTO THEFT,property
+3,LARCENY-FROM VEHICLE,property
+4,BURGLARY-RESIDENCE,property
+5,ROBBERY-PEDESTRIAN,violent
+6,AGG ASSAULT,violent
+7,RAPE,violent
+8,BURGLARY-NONRES,property
+9,HOMICIDE,violent
+10,ROBBERY-RESIDENCE,violent
+11,ROBBERY-COMMERCIAL,violent

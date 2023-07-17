@@ -6,6 +6,14 @@
 ## Outline of the project
 The project focuses on performing data warehousing techniques on real crime datasets to answer some business queries. 
 
+## Submission file included
+- PowerBI file
+- PDF report generated from PowerBI
+- Data cleaning/ETL script
+- SQL script and cleaned CSV files
+- Solution project file (and its folder) of the SSDT analysis service multi-dimensional project
+- PDF file discribing the association rule mining process and results.
+
 ## Data Warehousing Design and Implementation
 - Think about a few business questions that my data warehouse could help answer.
 - Draw a StarNet with the aim to identify the dimensions and concept hierarchies for each dimension. This should be based on the lowest level of information I can access to.
@@ -17,5 +25,8 @@ The project focuses on performing data warehousing techniques on real crime data
 - Use Power BI to visualise the data returned from the business queries.
 
 ## Association Rule Mining
-
+The Association Rule Mining is applied in this crime dataset. 
+- Process the dataset into a case table and a nested table.
+- Explain the top k rules (according to importance or probability) that have the "crime" type (or other suitable columns) on the right-hand side, where k>=1.
+- Explain the meaning of the k rules in plain English.
 
